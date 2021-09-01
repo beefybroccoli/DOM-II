@@ -49,13 +49,8 @@ event - using propagation, change text font when hover
     .....h2
     .....p
  
- event - using propagation, change background when hoover
-    section (content-section)
-
-event - display clock on home page
-    step 1 - create element
-    step 2 - add to homepage
-    step 3 - change the time every second
+ 
+ section ()
 
 
 

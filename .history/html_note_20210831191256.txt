@@ -44,24 +44,11 @@ html
 
 component
 
-event - using propagation, change text font when hover
-    section (content-section)
-    .....h2
-    .....p
+
+events
  
- event - using propagation, change background when hoover
-    section (content-section)
-
-event - display clock on home page
-    step 1 - create element
-    step 2 - add to homepage
-    step 3 - change the time every second
-
-
-
 _mouse enter
 _mouse exit
 _mouse click
 _touch event
-_keyboard typed
-_mouse drag
+_keyboard 
