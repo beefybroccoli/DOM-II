@@ -1,0 +1,16 @@
+/*
+html
+.....body
+..........header (main-navigation)
+...............div
+....................h1
+....................nav
+.........................anchor
+..........div (container home)
+...............header
+...............section
+...............section
+...............section
+..........footer (footer)
+
+*/

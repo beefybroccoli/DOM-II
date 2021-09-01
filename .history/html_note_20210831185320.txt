@@ -1,0 +1,9 @@
+/*
+html
+.....body
+..........header (main-navigation)
+...............div
+..........div (container home)
+..........footer (footer)
+
+*/
