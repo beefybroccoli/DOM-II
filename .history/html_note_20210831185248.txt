@@ -1,7 +1,0 @@
-/*
-html
-.....body
-..........header (main-navigation)
-..........div
-
-*/
